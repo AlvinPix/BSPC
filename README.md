@@ -4,7 +4,7 @@ Bspc is a script that acts as your bspwm task manager. It has several useful fun
 
 ## screenshot
 
-[![BSPC.png](https://i.postimg.cc/vZVHmwTq/BSPC.png)](https://postimg.cc/0z9qt3pD)
+[![pcbs.png](https://i.postimg.cc/3r9xWZBG/pcbs.png)](https://postimg.cc/fktNrm1W)
 
 ## install and running 
 
